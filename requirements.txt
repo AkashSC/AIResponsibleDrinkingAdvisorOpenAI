@@ -1,4 +1,4 @@
 streamlit==1.37.0
 plotly==5.22.0
-
+gunicorn
 openai>=1.32.0
